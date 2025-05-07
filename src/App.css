@@ -1,0 +1,13 @@
+/* Optional if you want more visual */
+.btn-secondary {
+    background-color: #ccc !important;
+  }
+  
+  .btn-success {
+    background-color: #28a745 !important;
+  }
+  
+  .btn-outline-primary {
+    background-color: #fff;
+  }
+  

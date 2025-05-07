@@ -1,0 +1,1140 @@
+{
+    "status": "success",
+    "statusCode": null,
+    "redirect": null,
+    "data": {
+        "boardingDetails": [
+            {
+                "boardingAddress": "Kukatpalli, testing",
+                "boardingContact": "99999999999999",
+                "boardingId": "24511",
+                "boardingLandmark": "kukatpalli,Testing",
+                "boardingName": "Abids",
+                "boardingTime": "3:00 AM"
+            }
+        ],
+        "dropPointMandatory": false,
+        "droppingDetails": [
+            {
+                "droppingAddress": " HSR Layout BDA Complex",
+                "droppingContact": "1234567890",
+                "droppingId": "105179",
+                "droppingLandmark": " HSR Layout BDA Complex",
+                "droppingName": " HSR Layout BDA Complex (Pickup Bus)",
+                "droppingTime": "4:00 AM"
+            }
+        ],
+        "requiredPAXDetail": {
+            "age": true,
+            "DOB": false,
+            "gender": true,
+            "IDProof": false,
+            "name": true,
+            "title": true
+        },
+        "responseHeader": {
+            "errorCode": "0000",
+            "errorDesc": "SUCCESS",
+            "errorInnerException": "",
+            "requestId": "BS4050221058",
+            "statusId": "11"
+        },
+        "requestId": "BS4050221058",
+        "seatLayout": [
+            {
+                "bookable": true,
+                "column": 0,
+                "fareMaster": {
+                    "basicAmount": 5,
+                    "cancellationCharges": 0,
+                    "fareDetails": [
+                        {
+                            "amount": 0,
+                            "fareDesc": "OperatorServiceCharge",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0.25,
+                            "fareDesc": "GST",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "TollFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "levyFare",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "BookingFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "Others",
+                            "refundable": true
+                        }
+                    ],
+                    "GST": 0,
+                    "grossCommission": 0,
+                    "netCommission": 0,
+                    "otherAmount": 0.25,
+                    "serviceFeeAmount": 0,
+                    "totalAmount": 5.25,
+                    "tradeMarkupAmount": 0
+                },
+                "ladiesSeat": false,
+                "length": "1",
+                "row": "0",
+                "seatKey": "owgVDuZuYjlub76VgWN0K0yqJjr6UIkI3QnrTj937sX6OQw2SJ6FaZUYjm0o9VXcoT+yQd5EBFFgPilhoLEja0g0909BPzynCkrIZSWwfmLcHPzF8w+uPedliMXMbemqLgx05sO9/BN1x51Y+rv4eMMIv5xtKHjhKs+XoHNwjD8Ta2gqlaR7T50TNk/6f0Cjl1JcClKX0GBP7zIQdoEU1zwVepzEZN2j5WU+UOqZ/vkDmPNDfWGh9QL9oxeT3flnOH27QzLQZd+2gHM6hqH9f7i/XCg7SsNI8GQYHgqT/2NRWiupmbRrANUG+CxvR03Dbyg4FLsdg27ytWwB+ZVZZ9+h6im2DBM5JbFQ3avuz3bSR4y1QPTImPcDEEOs5pEG4vTEga1+q7GKquC4NZcR5cPlvt/6AzDGTvM9uTrXqao=",
+                "seatNumber": "1",
+                "width": "1",
+                "ZIndex": "0"
+            },
+            {
+                "bookable": true,
+                "column": 1,
+                "fareMaster": {
+                    "basicAmount": 5,
+                    "cancellationCharges": 0,
+                    "fareDetails": [
+                        {
+                            "amount": 0,
+                            "fareDesc": "OperatorServiceCharge",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0.25,
+                            "fareDesc": "GST",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "TollFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "levyFare",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "BookingFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "Others",
+                            "refundable": true
+                        }
+                    ],
+                    "GST": 0,
+                    "grossCommission": 0,
+                    "netCommission": 0,
+                    "otherAmount": 0.25,
+                    "serviceFeeAmount": 0,
+                    "totalAmount": 5.25,
+                    "tradeMarkupAmount": 0
+                },
+                "ladiesSeat": false,
+                "length": "1",
+                "row": "0",
+                "seatKey": "mk5C8HKSfc8n80870v8r86Cmzz76jMWwiowmoXnbtRfd+8aXsKv+GCyevQwKc/EuFG3vM3PxU7VbR0CBYtVka78S/8KH6325g+TOG2Qfcu/9iDF44JL1exRXjW2Ta+vaeWJ3sJ/LSiP7g9G/ggI2T5NJPqSlcSdAu8PwZn3yMnuGlkJHEgaQz4qRnklrUkWJNX/RM3UGbp88bDYzDlGlEvK935NpbxB5LtyPSn2JkDA/7+zN//6uERzNF60E2ZfpvSmtL80JtZfDvHj51d9kLqXemFtb1Czez24NLgQf+lvrzoGQ75Ify2gUTqwQEcGLNzl7GUTIZOi8t0ct07Zu+gq8YCFH2TF0ZPkd1Nmt3O5orU1zpOUJmJaW4fT8lbec922SgCc3f8kpOTt/rCTChGdUE+/4roykgcy0Wh5i/r0=",
+                "seatNumber": "2",
+                "width": "1",
+                "ZIndex": "0"
+            },
+            {
+                "bookable": true,
+                "column": 2,
+                "fareMaster": {
+                    "basicAmount": 5,
+                    "cancellationCharges": 0,
+                    "fareDetails": [
+                        {
+                            "amount": 0,
+                            "fareDesc": "OperatorServiceCharge",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0.25,
+                            "fareDesc": "GST",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "TollFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "levyFare",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "BookingFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "Others",
+                            "refundable": true
+                        }
+                    ],
+                    "GST": 0,
+                    "grossCommission": 0,
+                    "netCommission": 0,
+                    "otherAmount": 0.25,
+                    "serviceFeeAmount": 0,
+                    "totalAmount": 5.25,
+                    "tradeMarkupAmount": 0
+                },
+                "ladiesSeat": false,
+                "length": "1",
+                "row": "0",
+                "seatKey": "mk5C8HKSfc8n80870v8r82Tg2+hcjt2fCJeGBqZMWPo2IbIx4+0I+soZ7LinUSCLgrbhPY5lt8ek5h0LlqIlBCTasp1RGz7rl5KTNmpYjpbnCQR0wy61KyjOZmCDzZ02kXwA74UCU7FxXM4H7Qv2yy/hWQGnm1vadrXIP93kY9YPBm8XW6U821oAnliyJa9yjznDzZJEi8tNXPyEDZxvImHSGuPcvGo/2XIhEICZCkQY10U658TSpX8kyfjuGY0tQddMq424EAUsCiBETYbDfSKs+DeLuQMjOpD8X+T7PbYDD8fqKh0TaISBpX0QkAfihhFRg0GIS9jxbMJ1bweQ6zTDpQO10JY2QG3j+V3dFCzcy6jQ5WBMbBfFQX1CoalTDVgHlvhj6mt6qcyviu5am9C8uzbKt01OFqTXpH2bWbk=",
+                "seatNumber": "3",
+                "width": "1",
+                "ZIndex": "0"
+            },
+            {
+                "bookable": true,
+                "column": 3,
+                "fareMaster": {
+                    "basicAmount": 5,
+                    "cancellationCharges": 0,
+                    "fareDetails": [
+                        {
+                            "amount": 0,
+                            "fareDesc": "OperatorServiceCharge",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0.25,
+                            "fareDesc": "GST",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "TollFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "levyFare",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "BookingFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "Others",
+                            "refundable": true
+                        }
+                    ],
+                    "GST": 0,
+                    "grossCommission": 0,
+                    "netCommission": 0,
+                    "otherAmount": 0.25,
+                    "serviceFeeAmount": 0,
+                    "totalAmount": 5.25,
+                    "tradeMarkupAmount": 0
+                },
+                "ladiesSeat": false,
+                "length": "1",
+                "row": "0",
+                "seatKey": "mk5C8HKSfc8n80870v8r80dtmPtrVSO6dqyHEwldT2baBjiN30OBK3ixs15azHRR7pw4n19EtP/QMmtWt4uBquI6PYPGYqaBoKrCO1mRFFptkp+3Z+xhbGnCNeIy5X8Xv4AApfJYGrzb1CiW5KktqsMyizMxRmV95kgktuo+C94WkXdsNMhYot/ncIArYjC9oi/Cu4xGelcI5zB3xEOskSLM7thxTG6CGnq/YePRc1+Dw8vbDxNhxCk+KKpmyrYPOhLxOaS/DSN23UlbOWxQWsxEeiXwQ7CIrDVskfq3PCcNlw9o1qzRe6GbaUuwRA3NnIbPw+Xqb6Zg3YiEDrvOs2XMRgdB3jw3Bme3OgJ4E3dpMM0zJx1zLEUz+ZH214Sc7qETKZzNwfY/8UFftn+tnFWu9WH/fy+Nay2PEDrXsW8=",
+                "seatNumber": "4",
+                "width": "1",
+                "ZIndex": "0"
+            },
+            {
+                "bookable": true,
+                "column": 4,
+                "fareMaster": {
+                    "basicAmount": 5,
+                    "cancellationCharges": 0,
+                    "fareDetails": [
+                        {
+                            "amount": 0,
+                            "fareDesc": "OperatorServiceCharge",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0.25,
+                            "fareDesc": "GST",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "TollFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "levyFare",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "BookingFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "Others",
+                            "refundable": true
+                        }
+                    ],
+                    "GST": 0,
+                    "grossCommission": 0,
+                    "netCommission": 0,
+                    "otherAmount": 0.25,
+                    "serviceFeeAmount": 0,
+                    "totalAmount": 5.25,
+                    "tradeMarkupAmount": 0
+                },
+                "ladiesSeat": false,
+                "length": "1",
+                "row": "0",
+                "seatKey": "mk5C8HKSfc8n80870v8r87+T4rzZs4wBfDq0P9z5iKhPrjEb7sPyoffItsdl8R6WRG9ZH2E0RvJW1Rz8D6vINV20vO1I9Rzphx+Q14rXb9ZpFHPQ47H4PR0uxLy+aEaytpd81dMcujiRMuOgkKltw7czM6AUEmnf+G1euS/jM7ImDgNGtg0PeazdrV+1nHqBvX2jdFNtfZWgbwlQw9TmoSNEKpxiwkJl918we2wpVMDzJ6zgjfv+No1DUiLzF2nF9qghOakeIxFmYbrzsMEFx5M3KlpP8pj475kx237WEbn7H6E+WolJEYJmZ84a64BnZhqtypN5+ndg+qDu8hlyfbbXEAWn6fFWqmfwFrWLE4xEeB9EJQteQvoBlwKI4tIEvBXffFvRYkRYrxMkl10xwb5ieaWhkvOWoN55URg7UXQ=",
+                "seatNumber": "5",
+                "width": "1",
+                "ZIndex": "0"
+            },
+            {
+                "bookable": false,
+                "column": 5,
+                "fareMaster": {
+                    "basicAmount": 5,
+                    "cancellationCharges": 0,
+                    "fareDetails": [
+                        {
+                            "amount": 0,
+                            "fareDesc": "OperatorServiceCharge",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0.25,
+                            "fareDesc": "GST",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "TollFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "levyFare",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "BookingFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "Others",
+                            "refundable": true
+                        }
+                    ],
+                    "GST": 0,
+                    "grossCommission": 0,
+                    "netCommission": 0,
+                    "otherAmount": 0.25,
+                    "serviceFeeAmount": 0,
+                    "totalAmount": 5.25,
+                    "tradeMarkupAmount": 0
+                },
+                "ladiesSeat": false,
+                "length": "1",
+                "row": "0",
+                "seatKey": "mk5C8HKSfc8n80870v8r825p8WqvCvbTqNF7pWw31GBRGPHe3LFjE+LJWzz0GoAqnQ5UqqwJ0pYQz5rBf7AK3M0anTUoufbGfVEKo5T+LZS5c4svK1wQCaXtFt9E2RblALJw43LAq9JVyFd8Ds8vAzPiNixdoCG0rkrc7NeeeAXyC588QinkC/fTr26ebe3H+X5CmIkSomHm0Fi/Y/Mw2nEwM5pim/7vRAAGKyIMvb0bmnzUfHsWtFQ8zpeKf1U17oIMBctnhVxRtOHT9TqUzPjE2qvAy5C1r3sf4CTlUrkxpWjgK0L8PkUODh7vWE041iJv154kNbm5qrOtuXnapPoIvCeHXikCGQ6/oMqkI32uDwKuBmHNO3cfV5BKZ9RMRXWBx2NBTahBoMD04wIV3eeJh2N/QIAKfBnoyseFHe0=",
+                "seatNumber": "6",
+                "width": "1",
+                "ZIndex": "0"
+            },
+            {
+                "bookable": false,
+                "column": 6,
+                "fareMaster": {
+                    "basicAmount": 5,
+                    "cancellationCharges": 0,
+                    "fareDetails": [
+                        {
+                            "amount": 0,
+                            "fareDesc": "OperatorServiceCharge",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0.25,
+                            "fareDesc": "GST",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "TollFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "levyFare",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "BookingFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "Others",
+                            "refundable": true
+                        }
+                    ],
+                    "GST": 0,
+                    "grossCommission": 0,
+                    "netCommission": 0,
+                    "otherAmount": 0.25,
+                    "serviceFeeAmount": 0,
+                    "totalAmount": 5.25,
+                    "tradeMarkupAmount": 0
+                },
+                "ladiesSeat": false,
+                "length": "1",
+                "row": "0",
+                "seatKey": "N3MwIMOMU4fgKBuaRxGQID/CQkyy+IuBGGAdESGOUhl8fPH4SX5IPMmOOE1ttZoroU71F+PB4jFAW8hmrl4Gk3MSUGKybfWyqhloBc4a+bRdHl4JcIHNFwvUd62JJnXHJ0bq8tAiN08Aw6ACo3LnrhN3SlOFwkvQzBGWAirpeZXpRRUQdVtDgFzX6/LOVgMmTnQwGDVoqpp0goqfVpHJKigQfg/Dh5N4KqdgccDoPPO0Ox4AyRf8RczliX4RFJJbfLCi683t4I4TX52nuUzCjrB06LbYLXnCLpFEoKed+Bb3wJsITTqtU8k4F8GgGfMeFqZWq/vINwm+J512MuSqOvtfhV/aMfkeTj764tUNo9ifvCliyYeBbf7husa4BFCtYsc44+O1HEx9cPLu+bPUb9rkjK/YxZ1rziH1xfhkQi0=",
+                "seatNumber": "7",
+                "width": "1",
+                "ZIndex": "0"
+            },
+            {
+                "bookable": true,
+                "column": 7,
+                "fareMaster": {
+                    "basicAmount": 5,
+                    "cancellationCharges": 0,
+                    "fareDetails": [
+                        {
+                            "amount": 0,
+                            "fareDesc": "OperatorServiceCharge",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0.25,
+                            "fareDesc": "GST",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "TollFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "levyFare",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "BookingFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "Others",
+                            "refundable": true
+                        }
+                    ],
+                    "GST": 0,
+                    "grossCommission": 0,
+                    "netCommission": 0,
+                    "otherAmount": 0.25,
+                    "serviceFeeAmount": 0,
+                    "totalAmount": 5.25,
+                    "tradeMarkupAmount": 0
+                },
+                "ladiesSeat": false,
+                "length": "1",
+                "row": "0",
+                "seatKey": "N3MwIMOMU4fgKBuaRxGQIAoiemyNnnG1h+YGmeZMDDlJNmmQn48eycBltH73JFQSxSZM7TpV0zozycBaR5I7EjTZCveD4IGPsC7PLOBWfHQ3h6HBdROFW71hRwMPFagDjSOpdkVM2sNlmO3Bkm8MBgnVz/o0o8Xy0o1HBoKU7PMgYoFNcssem4fzjq22sGgVVOJsUpB3fZS3XeYf28zxAx305xDzDQXHjMkARnu8gvHuanYkMj4jcp7SsDZ6apnuvRf77oCVM+Y3rMG8NTxy1IqNVlWsGZePjFTBGcRT870V05QMlsrrYgbwXuNxELNQbPnM2tjwi8gkmtDzY2pK+3uB4KNIwf3lsoQG95thkr3LyAOjb19rWQbhzV5oqUetFJVCFto5d8KMuRwwW9izTDs12xEWGof7qCKyb2+9TKw=",
+                "seatNumber": "8",
+                "width": "1",
+                "ZIndex": "0"
+            },
+            {
+                "bookable": false,
+                "column": 8,
+                "fareMaster": {
+                    "basicAmount": 5,
+                    "cancellationCharges": 0,
+                    "fareDetails": [
+                        {
+                            "amount": 0,
+                            "fareDesc": "OperatorServiceCharge",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0.25,
+                            "fareDesc": "GST",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "TollFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "levyFare",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "BookingFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "Others",
+                            "refundable": true
+                        }
+                    ],
+                    "GST": 0,
+                    "grossCommission": 0,
+                    "netCommission": 0,
+                    "otherAmount": 0.25,
+                    "serviceFeeAmount": 0,
+                    "totalAmount": 5.25,
+                    "tradeMarkupAmount": 0
+                },
+                "ladiesSeat": false,
+                "length": "1",
+                "row": "0",
+                "seatKey": "N3MwIMOMU4fgKBuaRxGQIB+2nEEAs5mKZcWn2KlZYaSF/y/c1rDoCLkpm3tS992yzPTl7TupqK0ppZnBBkOBTkKbj9Lh9Ox3CsEW+WGvx+RIGnpBDvi4M2vu3gqymEtb45a4tIFLu/RyYrdZH+4B9yMkX+Nva3euvLgMmUZODRrCuPmreIqWv1I2lkUXBRnutmU5VTrJLf6CyScECY9nQ8smCdAzz8rofypBy3zEyvRRoIzTFfdHrcYzfJrrLW9vpfYs2uUl4DofCVKh41x7jtgGt82DcNpqutKlu78UdJJPWiaUtEzOd9Uk4ilwTIPbTfiDOR2tVu3IFzGtL6NqXsjyhnlDdrqh9t0Zl4NHa7t+cP5xmY9JiachxvrgvyOzbBWBePJUVvfoUJgVkbPBWhV+kOPgfB+j27f/tG/eJAA=",
+                "seatNumber": "9",
+                "width": "1",
+                "ZIndex": "0"
+            },
+            {
+                "bookable": false,
+                "column": 9,
+                "fareMaster": {
+                    "basicAmount": 5,
+                    "cancellationCharges": 0,
+                    "fareDetails": [
+                        {
+                            "amount": 0,
+                            "fareDesc": "OperatorServiceCharge",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0.25,
+                            "fareDesc": "GST",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "TollFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "levyFare",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "BookingFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "Others",
+                            "refundable": true
+                        }
+                    ],
+                    "GST": 0,
+                    "grossCommission": 0,
+                    "netCommission": 0,
+                    "otherAmount": 0.25,
+                    "serviceFeeAmount": 0,
+                    "totalAmount": 5.25,
+                    "tradeMarkupAmount": 0
+                },
+                "ladiesSeat": false,
+                "length": "1",
+                "row": "0",
+                "seatKey": "owgVDuZuYjlub76VgWN0K8La3wH7Kgl62JOCkHqGj97C3+Q7fI8g6Si9+EqfJg+89Lx1cZ+N9GgkdG+ZuOD/x5JMrXehksVPP+gzb9shGWyODOAOd6Jr+8P0yXjU0tPAmZ6rIy6+GvMFyD8vJWiC9vy4+kXQaNLgbdni3jkUZQRmqzOhhtRgVC/OeEsU6K9IBrUjrp7iyzq1G1wsn7ifCaW8holvpvd/yrBYIWMTy/I4iK1WB3ajBcmY/3Bz70N+Dx0NTRataHU+UKp5PKINtC/Df9DedTqL1iXBO8VXWh33k73BRU+OHunuiN5D2TqdbdlUt1myKOJhmY1U8gvaNfUoFYq4b8gvO2rwYPj2/rCG8T4IMnkRAyVpAXYPVC+qcdWHyhqjAKEcJKXe92QeD4kzTVlUmhlk3ZYKi+sRy4A=",
+                "seatNumber": "10",
+                "width": "1",
+                "ZIndex": "0"
+            },
+            {
+                "bookable": true,
+                "column": 0,
+                "fareMaster": {
+                    "basicAmount": 5,
+                    "cancellationCharges": 0,
+                    "fareDetails": [
+                        {
+                            "amount": 0,
+                            "fareDesc": "OperatorServiceCharge",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0.25,
+                            "fareDesc": "GST",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "TollFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "levyFare",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "BookingFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "Others",
+                            "refundable": true
+                        }
+                    ],
+                    "GST": 0,
+                    "grossCommission": 0,
+                    "netCommission": 0,
+                    "otherAmount": 0.25,
+                    "serviceFeeAmount": 0,
+                    "totalAmount": 5.25,
+                    "tradeMarkupAmount": 0
+                },
+                "ladiesSeat": false,
+                "length": "1",
+                "row": "2",
+                "seatKey": "mk5C8HKSfc8n80870v8r88+l9ciz+kARXXvnoc73NcHu2lBjRuTYndztiVM9hSQgY0A0Aqsgqwys5Mk3vwJqzT/XvNib7VyP8anUcmkMapqQn46dhswscZo1BiTb8k89dr5sQwoTtFSQd0qFjDwcduVLHEzfk5FgYfqsHBakJnoHijgo3EHOboDyTBHP82a0cW5xOH9kSRc05r/jQwWdySvAmNmhLhoD/gTT+xoUCMg6cJe8+fs8GCH1rRxY2ujo27jW4VqxHBHMlAAHMZJQB5nZaiQl72kSGdrGwgEhhp3QMqvEc8Rc6bzZ0yzlwEaE3Eu6K+kUZQwhBpADpVz/TKry9CSET+cN4xhzqEorMMP8zl5akrw0BaJP9oTCsd117fruLXczCQ95pufw1YMgDhB5WAF6EphQdeTtbICpfCg=",
+                "seatNumber": "11",
+                "width": "1",
+                "ZIndex": "0"
+            },
+            {
+                "bookable": true,
+                "column": 1,
+                "fareMaster": {
+                    "basicAmount": 5,
+                    "cancellationCharges": 0,
+                    "fareDetails": [
+                        {
+                            "amount": 0,
+                            "fareDesc": "OperatorServiceCharge",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0.25,
+                            "fareDesc": "GST",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "TollFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "levyFare",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "BookingFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "Others",
+                            "refundable": true
+                        }
+                    ],
+                    "GST": 0,
+                    "grossCommission": 0,
+                    "netCommission": 0,
+                    "otherAmount": 0.25,
+                    "serviceFeeAmount": 0,
+                    "totalAmount": 5.25,
+                    "tradeMarkupAmount": 0
+                },
+                "ladiesSeat": false,
+                "length": "1",
+                "row": "2",
+                "seatKey": "owgVDuZuYjlub76VgWN0K0AYAQKu3gKS/L0uG4vZR3Ku/tzj7A4UxbM1JLlkbkOAUJ+ImC7hALFKe9t52mPmbc6+0iWAFTdcyyVp22rg3sCqYbpPINjLGdaI08LQHlZ3I9Dm8Y9FKoA3Jdw+YhHrf2NKXbTNHuxfoL3JscpAMKi4fjzgmtMbKj1LILeUW1PLthOyGW+6DwHOwaSGywO8aX52TQ9jRiCBALAP1UH62g3DySMBHUfced5Ag5PH2FpAKU0z8oJlgPd96Ds9wbJuJqAJz01SWByK3B1fQSH5ZYzAUyNYPnxyds0kICafjZ5BfaPqJZqL2ngniL5xqR/GmUsiX8zuA9uRSVpfq7dwfWF/Fo8yGn8gOVNnEf5XHUduVpUb6NqiU9Lgn1XoXk4J/sXenfyAyHjc2bN1Y5OxLrU=",
+                "seatNumber": "12",
+                "width": "1",
+                "ZIndex": "0"
+            },
+            {
+                "bookable": true,
+                "column": 2,
+                "fareMaster": {
+                    "basicAmount": 5,
+                    "cancellationCharges": 0,
+                    "fareDetails": [
+                        {
+                            "amount": 0,
+                            "fareDesc": "OperatorServiceCharge",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0.25,
+                            "fareDesc": "GST",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "TollFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "levyFare",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "BookingFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "Others",
+                            "refundable": true
+                        }
+                    ],
+                    "GST": 0,
+                    "grossCommission": 0,
+                    "netCommission": 0,
+                    "otherAmount": 0.25,
+                    "serviceFeeAmount": 0,
+                    "totalAmount": 5.25,
+                    "tradeMarkupAmount": 0
+                },
+                "ladiesSeat": false,
+                "length": "1",
+                "row": "2",
+                "seatKey": "mk5C8HKSfc8n80870v8r8x8lsaoLxYrwAq1GfbX7Vtj9RTTSSfiYCKgfzcsFddQ3lYtHe2XBy0IpqJmTZEVr0SwzAfM+87g9rbdum4iGzkBUzwF34/FlKTI4vj2nTPz8R1ZEg8eofRny+p89em3BtwVBOGDBNhvTg1PpIbuC1xJkKUWA3LBHR5Auul3ITzqJ08x1VgQjIO8N0aRzIBqbXLlpQAhPIQxsuuZJK3pWHKW/gpFZvzK6xY5x6H3S4TVIXAFG8wMkpg49qQVj3wtzRFb7W+00DU6Ckn/eQiyscd4Ppxsb70PJQmBcICIkUvqFEbIvclRHgC3XyH9aoqjyrUI61cH+vlUUWaXbkF0XPy2sKvTEQ5gkRWBXLi/Qs1Lgxapn5ZmdRFcFvEYPuJrhJrzCwNPuCgzRQA/jlKcI/Jg=",
+                "seatNumber": "13",
+                "width": "1",
+                "ZIndex": "0"
+            },
+            {
+                "bookable": true,
+                "column": 3,
+                "fareMaster": {
+                    "basicAmount": 5,
+                    "cancellationCharges": 0,
+                    "fareDetails": [
+                        {
+                            "amount": 0,
+                            "fareDesc": "OperatorServiceCharge",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0.25,
+                            "fareDesc": "GST",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "TollFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "levyFare",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "BookingFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "Others",
+                            "refundable": true
+                        }
+                    ],
+                    "GST": 0,
+                    "grossCommission": 0,
+                    "netCommission": 0,
+                    "otherAmount": 0.25,
+                    "serviceFeeAmount": 0,
+                    "totalAmount": 5.25,
+                    "tradeMarkupAmount": 0
+                },
+                "ladiesSeat": false,
+                "length": "1",
+                "row": "2",
+                "seatKey": "mk5C8HKSfc8n80870v8r80dtmPtrVSO6dqyHEwldT2baBjiN30OBK3ixs15azHRR7pw4n19EtP/QMmtWt4uBqpEv9UA48ZhqzNWgL1EXtumsIEXnkgpl7SV5ekoZ+Tj2ynjHyeaixjMzNI0HO1tabQAwu+5pvQCk4cC7PJQkKccGs808F+Zr1JQn1CJhCqSZRo+wBYb9z1HJfZtbNfdaPOddOfDQ9BxYtMSCMPqxbGkxSWPuTOvsfk2HsxCc6rkaP3ZrAB1yny3btGezBBI/uxvvotrkYELRWehgXqKEPIPb4VDFVYTGLb/uqC5wNE1+xnZVuEJXic5VURtLS6Vzr/u6mOxT9zbxIkTOzlzqiPzQ90xvURfuCsrboYuPBnJ26cjKaZcR46pmo28Xsg0yy3CM5nDYhjBOxkWjpM3w0os=",
+                "seatNumber": "14",
+                "width": "1",
+                "ZIndex": "0"
+            },
+            {
+                "bookable": true,
+                "column": 4,
+                "fareMaster": {
+                    "basicAmount": 5,
+                    "cancellationCharges": 0,
+                    "fareDetails": [
+                        {
+                            "amount": 0,
+                            "fareDesc": "OperatorServiceCharge",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0.25,
+                            "fareDesc": "GST",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "TollFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "levyFare",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "BookingFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "Others",
+                            "refundable": true
+                        }
+                    ],
+                    "GST": 0,
+                    "grossCommission": 0,
+                    "netCommission": 0,
+                    "otherAmount": 0.25,
+                    "serviceFeeAmount": 0,
+                    "totalAmount": 5.25,
+                    "tradeMarkupAmount": 0
+                },
+                "ladiesSeat": false,
+                "length": "1",
+                "row": "2",
+                "seatKey": "mk5C8HKSfc8n80870v8r87+T4rzZs4wBfDq0P9z5iKhPrjEb7sPyoffItsdl8R6WRG9ZH2E0RvJW1Rz8D6vINRQ0Izbbmr83cKOXjwG+JOZMPUrNIY3BAngaR/egf19o8JwfXgNUI+JCAhJBedXpXjzbEHc3Gd7KqYKPTcpo/HCQ5fJI/Sd8W3yqvL2v3+SaGBpXhVB+q/Rb1rR6RBFR+LmnwTECVpnxmMrT0TeNFt34x4dxZ1wGSodfnPRzTnYxw/1/1BeaRpe7KszwvnvZDSu265M3qkMSMV7EXmq/tQTiHfVNBNqbZCw80wqbH8ntAAyj0nL+KAk8TMTb1lBFOoF1dlTAvsr2oicH+TezbxXaifx8BgKNTTQ5bUiBpqMvUF7ipdSDgrZY/6qyGTUWdr7sxf7UMHnWzcBAmkRbkLE=",
+                "seatNumber": "15",
+                "width": "1",
+                "ZIndex": "0"
+            },
+            {
+                "bookable": true,
+                "column": 5,
+                "fareMaster": {
+                    "basicAmount": 5,
+                    "cancellationCharges": 0,
+                    "fareDetails": [
+                        {
+                            "amount": 0,
+                            "fareDesc": "OperatorServiceCharge",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0.25,
+                            "fareDesc": "GST",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "TollFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "levyFare",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "BookingFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "Others",
+                            "refundable": true
+                        }
+                    ],
+                    "GST": 0,
+                    "grossCommission": 0,
+                    "netCommission": 0,
+                    "otherAmount": 0.25,
+                    "serviceFeeAmount": 0,
+                    "totalAmount": 5.25,
+                    "tradeMarkupAmount": 0
+                },
+                "ladiesSeat": false,
+                "length": "1",
+                "row": "2",
+                "seatKey": "mk5C8HKSfc8n80870v8r84pwYOHf1mSSRgH1KxJeP78diGMUdDufI2pC3p7EJMQwa3Jped6KK/X56PBKRlSKPEanh9hKPxHIDXpMbFnS9So/pzAr+5PtaNiMgyiBCJyMIgS1CbAUrraMRF+lB9H66+16QYVuuUHahvq4zs9yDyWLBYSk/0lt1L9lGZY4EiOBqBByzChTIsuZLaTp9UdUsoKcNLFt74z78oCEdh8DkYve+D3bBg2Pup9I+AaJK29A591Xudwam0bVYSmYpEXbHaqUi7wBzBhqi1bs/nP0Mpl7YZrtsD63jLvSAv7XNwz3QhX1nWYNMSVoeqR+5/LF70Xa/K59+mpvCku/rIo045LgapPQxv33T4YSwDsP88EQ1z4JrB9KNJ/1g8OGsLj9bkjU5IdF9+BkNHSd9+M+qK4=",
+                "seatNumber": "16",
+                "width": "1",
+                "ZIndex": "0"
+            },
+            {
+                "bookable": true,
+                "column": 6,
+                "fareMaster": {
+                    "basicAmount": 5,
+                    "cancellationCharges": 0,
+                    "fareDetails": [
+                        {
+                            "amount": 0,
+                            "fareDesc": "OperatorServiceCharge",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0.25,
+                            "fareDesc": "GST",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "TollFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "levyFare",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "BookingFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "Others",
+                            "refundable": true
+                        }
+                    ],
+                    "GST": 0,
+                    "grossCommission": 0,
+                    "netCommission": 0,
+                    "otherAmount": 0.25,
+                    "serviceFeeAmount": 0,
+                    "totalAmount": 5.25,
+                    "tradeMarkupAmount": 0
+                },
+                "ladiesSeat": false,
+                "length": "1",
+                "row": "2",
+                "seatKey": "N3MwIMOMU4fgKBuaRxGQID/CQkyy+IuBGGAdESGOUhl8fPH4SX5IPMmOOE1ttZorvXv9/L9tZUDuiDY+nZ9SedzHDmOZnDoiSGuTUlkplsckdAIqIBlryE9E3w95nfWgYq1AGemixVkdWozXx90DGO5DpTWnMz1Vj/fNIG+AxFU/sFZm0zW4/RidH+bFKd+H7rIt/0Q6D8ULn/JkdG6bydTalHo7AgcEwiLrAytz3AIp1XanJT0iDDDzWI6XJ8dOXmkoj4pifTyy7h0ABna7Bsqs3u/hHIljRD4vv8cS7WtvbC6Fh3+ThnpJcmghFIq/m1vVztosZfgbPgXFy4EHI9oLiycg+mTFLmv2AdhAdi23awQnhOSBMV2stFcfoVxJEUwypnNkmPy6DhNYN7VYbmIuiyDiNZuXo9TWXuWAMr0=",
+                "seatNumber": "17",
+                "width": "1",
+                "ZIndex": "0"
+            },
+            {
+                "bookable": true,
+                "column": 7,
+                "fareMaster": {
+                    "basicAmount": 5,
+                    "cancellationCharges": 0,
+                    "fareDetails": [
+                        {
+                            "amount": 0,
+                            "fareDesc": "OperatorServiceCharge",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0.25,
+                            "fareDesc": "GST",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "TollFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "levyFare",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "BookingFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "Others",
+                            "refundable": true
+                        }
+                    ],
+                    "GST": 0,
+                    "grossCommission": 0,
+                    "netCommission": 0,
+                    "otherAmount": 0.25,
+                    "serviceFeeAmount": 0,
+                    "totalAmount": 5.25,
+                    "tradeMarkupAmount": 0
+                },
+                "ladiesSeat": false,
+                "length": "1",
+                "row": "2",
+                "seatKey": "N3MwIMOMU4fgKBuaRxGQIAoiemyNnnG1h+YGmeZMDDlJNmmQn48eycBltH73JFQSxSZM7TpV0zozycBaR5I7EmsGZuNBFWcOXZUEjDOuKWCJzAarX6tOOOYLWoVOtYCD/99krfbnUkVErO5/XZFIOrlhPWrWGB6W2gEvRrI0Ndpq8fCXej+VgP3cNPz13JuCO6L+CyGAzU814mZGyYd4rWR3QYU4vIi4rlR9DvPwXiRJK/ml2ZFvWn4mXIXhOjitAxtb3XHBcetK60jJhyJRh68ROQ/bKAV9cxB67bEJ1NPtTuGvTo63cCvYH2nSM+Yq8vXua6cWgjrhKFe3gO20quvo44H2jpZ70SzkE0k3Cus1iOJbrGSG5VS/sjs+ThIuDeBQ2n+LJwUz27XcXBQ+6FRC14aHGSlFEWG1EHp+4cc=",
+                "seatNumber": "18",
+                "width": "1",
+                "ZIndex": "0"
+            },
+            {
+                "bookable": true,
+                "column": 8,
+                "fareMaster": {
+                    "basicAmount": 5,
+                    "cancellationCharges": 0,
+                    "fareDetails": [
+                        {
+                            "amount": 0,
+                            "fareDesc": "OperatorServiceCharge",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0.25,
+                            "fareDesc": "GST",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "TollFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "levyFare",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "BookingFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "Others",
+                            "refundable": true
+                        }
+                    ],
+                    "GST": 0,
+                    "grossCommission": 0,
+                    "netCommission": 0,
+                    "otherAmount": 0.25,
+                    "serviceFeeAmount": 0,
+                    "totalAmount": 5.25,
+                    "tradeMarkupAmount": 0
+                },
+                "ladiesSeat": false,
+                "length": "1",
+                "row": "2",
+                "seatKey": "N3MwIMOMU4fgKBuaRxGQIB+2nEEAs5mKZcWn2KlZYaSF/y/c1rDoCLkpm3tS992y8Nd//YHHFhArk3y7zoQnoPJEweAt1vUQxEUj643Mh2o1LReLwwlcdBqDsylGKwpl5k5kvhwhcangzdpqaNrFY+V5IgWWEI8Bi+mjTf2btOdCiVuZ6BOs+xnGAATOOnYEqw5xJBRuwmQ3OO1XCBFbvTZRo0B4ozoQUfAbXzXnrzPx6bH0OVVGBGrJiyRMZkcpTr4XDeaio1meB0UU8k8NBtrtVx+2NBwiEv5ew/4B1e0NjXxtILZC6HDG2uQLzhd0FQ1a4zuqAerAq9q+BRLqNR4RWDYEuLr3DWi22BhhV9HHQXlMjil4ptyAr0voNpyb7b85qm1o/D7PVozti2k2hM6ur5+fR1C9om32TuPnRzo=",
+                "seatNumber": "19",
+                "width": "1",
+                "ZIndex": "0"
+            },
+            {
+                "bookable": true,
+                "column": 9,
+                "fareMaster": {
+                    "basicAmount": 5,
+                    "cancellationCharges": 0,
+                    "fareDetails": [
+                        {
+                            "amount": 0,
+                            "fareDesc": "OperatorServiceCharge",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0.25,
+                            "fareDesc": "GST",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "TollFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "levyFare",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "BookingFee",
+                            "refundable": true
+                        },
+                        {
+                            "amount": 0,
+                            "fareDesc": "Others",
+                            "refundable": true
+                        }
+                    ],
+                    "GST": 0,
+                    "grossCommission": 0,
+                    "netCommission": 0,
+                    "otherAmount": 0.25,
+                    "serviceFeeAmount": 0,
+                    "totalAmount": 5.25,
+                    "tradeMarkupAmount": 0
+                },
+                "ladiesSeat": false,
+                "length": "1",
+                "row": "2",
+                "seatKey": "owgVDuZuYjlub76VgWN0K/5vpWBpT5fV6I3bbu9maceAo8UHlLDc7obQigXwHIawau1aLY45xQJnJZxYy54KyYHkErsAd8sb1b67xuWvuMfD63rfHNCu/dgiOpe7KmNmU6Fa8UYwN9mp8+KrmcXi5Rwmgzf+UkNUjUqRk5/PeG9JTGGiah7ZOfJ4SEQrj0JHzH0bhJDo5YxeUvZVZxe6cRFy3k6QNgDz8Xe9Ee4TdksolCI488VXVPAXKcGKZK4HvgKWOFBMJ1MgiKFqxrkmL+vvPR3GSRw+3fP+m0t1Ur5Ssv4Sp0NEHb44Po8yN8McLrp9DPESh1PRYFJZrC1ycS41yPXNfTSItJ3Kj3CDGyrjczOGejY946XD80pJkAXsvM36LP5x3lkSP7Nv61SPXmxUE6Gpnm58AmRL9nVRn5g=",
+                "seatNumber": "20",
+                "width": "1",
+                "ZIndex": "0"
+            }
+        ],
+        "seatLayoutKey": "+LN1NO71BU+iJLd3lPMhp2aN5UNTOvE6HsKUBbQlJAAi75iT5ZPUnGduugxu3eAYABLL0V47mUnpgI0ubfry952pUQBPsJcWd45iXBGz9eey6yzD5yh5FBOw1mZhYUzeB1EvhhJQm9kj6Zx0V+TxD/Zc7xgoGTgwG2+hMpSZLYxPJKE0EA5dEGAzxRqIZW0q/BTdGdOsV4vcl/8U248nAs2CodQJvlALjgDWcr8xc3UWckByZpxOYitbdYqA+vDwp0CYE3d6Z8xKGFATEhwlNx1zLIBQ7t7T4IV+SntmiwIm0NjLgplboEj4ywiEHJxIrn5s8BDBHpS4kdz+QqYTE9iogV5i4jpACR33shCFrxKgHsNE2s2Ut+wM3g3CK5MiyAROg4vxb3OiaiVg5mxV6GdSpJ3YGgCSYTbcMb4QZfET3+4NlhLeXWr31fQ7RsSVUiRO/OFXvR397LhjtWwxAZo0XjcqSpmQfIKUl1mfN689YJcotnC1KUqDVklYvxdmKB+Lq/XEVrFjTHDaH49gUkVc4+J5UKoB9yITpFiKLig7UDswfXjd3G7BKAiorNOFApP9qi3bp3FNK63RY/fzo1MOIwpYXu6R+IJfeEmzCXUYeFtBRY3KlCy928NmeZ345RjjGXggZ5pVJ7ehbqici7AmgvlSSWRLPe1c1TYOn6LRMWmG53CbuyOVjgI+5EAQQvQzWwlhki/JXPJQpDHDuXs1NeFNAqBfPV5UZXnaKgxH9Wz91XxaU9IWxV1TaUSFlilZcbGBrjCQCcLHGTx882zjlqb280szTUH4hzpgHdKczuVHB+iSRV+KItc+0mdXR/XfTYS+omk5Usth2IFSC+aZEWyTWW+G+8j9KSCEpLxti4B6HPYtN3zXtZ3Y2eGsNDaB1M5TYDYCrFPDZv4Wj02hAe/0WcRuPqWE5GjJ5iw50q1iVnwt/r/v+a2LfSmBb3MeRqGy1+0W3lRZeFfuxDn1r6M9XlliHPYyLUTAKVZ80r7dkQcvnhOdx1OUiFREkRIUXKfzqqefFYFkAvTkbGhHBS73IIm0ITqvDsjOaGILQNV4YUb9l23j0HzF6Z97SPpD0hLtODPIamthHgzaQOq+4kQO6M40p5o2mps7NcZkBVQkA0M5Y6WNIgQ4RKfhTKauhPTV9TSE24+o0nT9OYVz9H5XE8zEVvQ13mDRw+isaekpLdmRqTZ+xZXvggiEUSPyJLk1GcFT3iUx6Odr/P91CYn6e6NLvioBMm0QXx106ZTXVCFWqgopiMLcyNtIIncoM8oqh4QqJ5644Lqqtlg52cona7rBsgPCZl+C9rQ="
+    },
+    "modal": null,
+    "successImage": null,
+    "message": "SUCCESS",
+    "modalStatus": null,
+    "alert": null,
+    "login": null,
+    "title": null,
+    "verifyOtp": null,
+    "className": null,
+    "hideClass": null,
+    "modalClose": null,
+    "modalId": null,
+    "dataTarget": null
+}
